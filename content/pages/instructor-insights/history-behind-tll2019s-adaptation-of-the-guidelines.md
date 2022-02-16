@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 19c4678d-3d3c-5f44-297b-204b08b5f657
 title: "History Behind TLL\u2019s Adaptation of the Guidelines"
 uid: a6169819-7c36-3aa0-4788-4375aae8696e

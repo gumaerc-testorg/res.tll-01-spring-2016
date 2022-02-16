@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Students share ideas and offer each other feedback.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/res-tll-01-guidelines-for-teaching-mit-and-beyond-spring-2016/125b5df0cc4d81eed7e2ab6546448281_res-tll-01s16-th.jpg
+file: /media/courses/res-tll-01-guidelines-for-teaching-mit-and-beyond-spring-2016/125b5df0cc4d81eed7e2ab6546448281_res-tll-01s16-th.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Students share ideas and offer each other feedback during a class session
@@ -9,6 +9,8 @@ image_metadata:
   credit: Image by MIT OpenCourseWare.
   image-alt: Photo of part of a classroom where 2 students are talking and more students
     behind them.
+learning_resource_types: []
+ocw_type: OCWImage
 resourcetype: Image
 title: res-tll-01s16th.jpg
 uid: 125b5df0-cc4d-81ee-d7e2-ab6546448281

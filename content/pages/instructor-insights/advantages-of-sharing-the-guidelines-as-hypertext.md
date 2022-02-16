@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 19c4678d-3d3c-5f44-297b-204b08b5f657
 title: Advantages of Sharing the Guidelines as Hypertext
 uid: 1d6193c2-e9a8-36f5-cdc0-3ba34c42ef04

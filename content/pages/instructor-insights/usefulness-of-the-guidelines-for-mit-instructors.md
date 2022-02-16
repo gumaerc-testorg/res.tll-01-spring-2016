@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 19c4678d-3d3c-5f44-297b-204b08b5f657
 title: Usefulness of the Guidelines for MIT Instructors
 uid: 0ff8f736-c81b-7b3b-a6bd-db010d73f209

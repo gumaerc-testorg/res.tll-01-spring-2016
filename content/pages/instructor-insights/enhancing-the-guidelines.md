@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 19c4678d-3d3c-5f44-297b-204b08b5f657
 title: Enhancing the Guidelines
 uid: e64a649b-1eae-4357-93cf-ac1931cdfd8e
