@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Students share ideas and offer each other feedback.
-file: /media/courses/res-tll-01-guidelines-for-teaching-mit-and-beyond-spring-2016/beff96fe96c1e131a8d0d31ed38f19b2_res-tll-01s16.jpg
+file: /courses/res-tll-01-guidelines-for-teaching-mit-and-beyond-spring-2016/beff96fe96c1e131a8d0d31ed38f19b2_res-tll-01s16.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Students share ideas and offer each other feedback during a class session
@@ -15,3 +15,5 @@ resourcetype: Image
 title: res-tll-01s16.jpg
 uid: beff96fe-96c1-e131-a8d0-d31ed38f19b2
 ---
+Students share ideas and offer each other feedback.
+
