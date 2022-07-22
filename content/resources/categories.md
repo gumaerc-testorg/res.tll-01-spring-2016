@@ -9,6 +9,7 @@ image_metadata:
   credit: Image by Teaching and Learning Lab.
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
@@ -18,4 +19,3 @@ title: categories.jpg
 uid: aa678aef-6ed4-f8a0-d1c1-10df038966ae
 ---
 The Guidelines for Teaching @MIT and Beyond are grouped into three broad categories: design, delivery, and assessment.
-

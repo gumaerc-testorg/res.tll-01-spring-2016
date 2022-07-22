@@ -10,10 +10,10 @@ image_metadata:
   image-alt: Photo of part of a classroom where 2 students are talking and more students
     behind them.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: res-tll-01s16.jpg
 uid: beff96fe-96c1-e131-a8d0-d31ed38f19b2
 ---
 Students share ideas and offer each other feedback.
-
