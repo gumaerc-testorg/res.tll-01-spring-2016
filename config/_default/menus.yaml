@@ -23,7 +23,7 @@ leftnav:
   pageRef: /pages/instructor-insights/enhancing-the-guidelines
   parent: 19c4678d-3d3c-5f44-297b-204b08b5f657
   weight: 50
-- identifier: external-053ed4597d08459ba59ca6a2d4cf4d0f
+- identifier: 81eab0ad-400d-43d7-bfa5-cfef012ac84b
   name: Online Publication
-  url: https://tll-archive.mit.edu/guidelines/guidelines-teaching-mit-and-beyond
+  pageRef: /external-resources/online-publication_81eab0ad-400d-43d7-bfa5-cfef012ac84b
   weight: 1000

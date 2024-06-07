@@ -2,6 +2,7 @@
 content_type: resource
 description: image placeholder
 file: /courses/res-tll-01-guidelines-for-teaching-mit-and-beyond-spring-2016/9d762bac947de34cff9c9a17944e9198_placeholder.jpg
+file_size: 102212
 file_type: image/jpeg
 image_metadata:
   caption: ''
