@@ -9,7 +9,7 @@ uid: e64a649b-1eae-4357-93cf-ac1931cdfd8e
 ---
 _In this section, Dipa Shah and Leann Dobranski share how they hope to enhance the guidelines in the near future._
 
-Now that the [guidelines](https://tll-archive.mit.edu/guidelines/guidelines-teaching-mit-and-beyond) are in hypertext, we can continually revisit them and update them with more recent literature and examples from MIT classrooms.
+Now that the {{% resource_link "81eab0ad-400d-43d7-bfa5-cfef012ac84b" "guidelines" %}} are in hypertext, we can continually revisit them and update them with more recent literature and examples from MIT classrooms.
 
 {{< quote "Our educator audiences clamor for more teaching examples from MIT classrooms." "— Dipa Shah and Leann Dobranski" >}}
 
