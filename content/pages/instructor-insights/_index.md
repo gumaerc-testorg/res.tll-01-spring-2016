@@ -8,11 +8,11 @@ uid: 19c4678d-3d3c-5f44-297b-204b08b5f657
 ---
 ## Resource Overview
 
-{{% resource_link "81eab0ad-400d-43d7-bfa5-cfef012ac84b" "_Guidelines for Teaching @ MIT and Beyond_" %}} outlines elements that should be considered when designing, delivering, and assessing educational experiences for students. The resource includes links to research supporting the guidelines and examples of how MIT instructors implement the guidelines in their classrooms.
+[_Guidelines for Teaching @ MIT and Beyond_](https://tll-archive.mit.edu/guidelines/guidelines-teaching-mit-and-beyond) outlines elements that should be considered when designing, delivering, and assessing educational experiences for students. The resource includes links to research supporting the guidelines and examples of how MIT instructors implement the guidelines in their classrooms.
 
-The guidelines were adapted by the {{% resource_link "42c0f4c7-b080-443b-9fa3-3bc94c7504df" "MIT Teaching and Learning Laboratory" %}} from the New South Wales' _Guidelines on Learning that Inform Teaching_ and its associated _Toolkit_. These resources have now been expanded as a generic {{% resource_link "9136ecb4-6985-4a53-8d85-fee79045059c" "_Guidelines on Learning that Inform Teaching_" %}} website with examples written in a format to encourage other universities to draft their own set of guidelines and examples.
+The guidelines were adapted by the [MIT Teaching and Learning Laboratory](http://tll.mit.edu/) from the New South Wales' _Guidelines on Learning that Inform Teaching_ and its associated _Toolkit_. These resources have now been expanded as a generic [_Guidelines on Learning that Inform Teaching_](http://www.guidelinesonlearning.com/) website with examples written in a format to encourage other universities to draft their own set of guidelines and examples.
 
-The instructor insights on this page are shared by Darshita (Dipa) Shah, the Associate Director Director of the {{% resource_link "8b333b10-851d-4345-bc78-35e617a0f69b" "MIT Teaching and Learning Laboratory" %}} (TLL) and Leann Dobranski, the Assistant Director of TLL. Their insights focus on the history behind TLL's adaptation of the guidelines, how the guidelines are useful and support the work of TLL, and how TLL hopes to further adapt the guidelines in the future.
+The instructor insights on this page are shared by Darshita (Dipa) Shah, the Associate Director Director of the [MIT Teaching and Learning Laboratory](http://tll.mit.edu) (TLL) and Leann Dobranski, the Assistant Director of TLL. Their insights focus on the history behind TLL's adaptation of the guidelines, how the guidelines are useful and support the work of TLL, and how TLL hopes to further adapt the guidelines in the future.
 
 ## Resource Outcomes
 
@@ -21,8 +21,8 @@ The instructor insights on this page are shared by Darshita (Dipa) Shah, the Ass
 - Gain familiarity with the 18 guidelines informing teaching and learning at MIT
 - Find links to research supporting these guidelines
 - Explore examples of how MIT instructors implement the guidelines in their classrooms
-- Learn how MIT adapted these guidelines from the New South Wales' {{% resource_link "9136ecb4-6985-4a53-8d85-fee79045059c" "_Guidelines on Learning that Inform Teaching_" %}} 
-- For instructors at institutions beyond MIT: learn how to {{% resource_link "66377e4c-a9c6-4619-b441-2337d4582b6c" "adapt the New South Wales guidelines for use at one’s own university" %}}
+- Learn how MIT adapted these guidelines from the New South Wales' [_Guidelines on Learning that Inform Teaching_](http://www.guidelinesonlearning.com/) 
+- For instructors at institutions beyond MIT: learn how to [adapt the New South Wales guidelines for use at one’s own university](http://www.guidelinesonlearning.com/do-it-yourself-guidelines)
 
 {{< anchor "insights" >}}{{< /anchor >}}
 
